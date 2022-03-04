@@ -2,8 +2,8 @@
 
 Task 0:
 	 su betty
-	 Script that changes your user ID to betty. 
+	 Script that switches the current user to the user betty. 
 
 Task 1:
-	 id -un
-	 Print the effective user ID of current user. Other alternative is `whoami`
+	 whoami
+	 Script that prints the effective username of the current user.
